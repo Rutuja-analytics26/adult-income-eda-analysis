@@ -1,4 +1,4 @@
-# 📊 Adult Income Analysis (EDA)
+<img width="1470" height="747" alt="image" src="https://github.com/user-attachments/assets/6e306fc8-fdbd-4762-883b-6ff6efd2e354" /># 📊 Adult Income Analysis (EDA)
 
 ## 🎯 Problem Statement
 Analyze demographic and socio-economic factors to determine what influences whether an individual earns more than 50K per year.
@@ -42,11 +42,5 @@ Analyze demographic and socio-economic factors to determine what influences whet
 - adult_income_eda.ipynb  
 - Income_Dataset.csv  
 
----
 
-## 📸 Visualizations
-(Add screenshots of your graphs here)
 
----
-
-⭐ If you found this useful, feel free to star the repository!
